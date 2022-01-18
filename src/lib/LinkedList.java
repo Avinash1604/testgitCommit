@@ -71,5 +71,10 @@ public class LinkedList<T> {
 
     }
 
+    public void test3(){
+
+    }
+
+
 
 }
