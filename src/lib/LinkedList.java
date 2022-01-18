@@ -64,4 +64,12 @@ public class LinkedList<T> {
        System.out.println("mid element"+node.data);
     }
 
+    public void test1(){
+
+    }
+    public void test2(){
+
+    }
+
+
 }
