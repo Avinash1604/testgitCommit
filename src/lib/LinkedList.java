@@ -47,7 +47,7 @@ public class LinkedList<T> {
       if (index == 0){
           header = header.next;
       }
-        Node temp = header;
+            Node temp = header;
         for(int i =0; i < index-1; i++){
             temp = temp.next;
         }
