@@ -10,16 +10,16 @@ public class Demo {
 
     private static void linkedListOperation(){
         LinkedList linkedList = new LinkedList();
-        linkedList.insert(10);
+          linkedList.insert(10);
         linkedList.insert(20);
         linkedList.insert(30);
         linkedList.insert(40);
         linkedList.addToFirst(5);
         linkedList.midElement();
-//        linkedList.print();
-//        System.out.println("============");
-//        linkedList.delete(3);
-//        linkedList.print();
+        linkedList.print();
+        System.out.println("============");
+        linkedList.delete(3);
+        linkedList.print();
     }
 
     private static int reverseNumber(int number){
